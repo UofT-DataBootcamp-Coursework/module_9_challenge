@@ -8,7 +8,7 @@
 - Make 2 or 3 recommendations for further analysis.
 
 ## Resources
-Data Sources: [hawaii](hawaii.sqlite), [June vs December Analysis](june_vs_december_analysis.xlsx)
+Data Sources: [hawaii](hawaii.sqlite), [June vs December Analysis](june_vs_december_analysis.xlsx), [Python Script + SQL queries](module_9_challenge.ipynb)
 
 Software: Python - matplotlib, numpy, pandas, datetime, sqlalchemy; Microsoft Excel
 
