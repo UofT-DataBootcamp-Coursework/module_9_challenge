@@ -28,9 +28,9 @@ Software: Python - matplotlib, numpy, pandas, datetime, sqlalchemy; Microsoft Ex
 
 - the standard deviation for both June (3.26) and December (3.75) temperatures show that both months appear similarily spread out
 
-- the lowest amount of precipitation for any given day in both June and December was nil, while the highest amount of precipitation recorded for June was 4.43 inches and for December 6.42
+- the lowest amount of precipitation for any given day in both June and December was nil, while the highest amount of precipitation recorded for June was 4.43 inches and for December 6.42 inches
 
-- the second quartile for June precipitation is 0.02 while December is 0.03, and the third quartile for June is 0.12 while December is 0.15, showing that majority of precipitation for both months is generally under 0.15 inches, therefore the highest amounts of precipitation for both months are considered outliers (for June, anything over 0.30 and for December, anything over 0.38, are considered outliers)
+- the second quartile for June precipitation is 0.02 inches while December is 0.03 inches, and the third quartile for June is 0.12 inches while December is 0.15 inches, showing that majority of precipitation for both months is generally under 0.15 inches, therefore the highest amounts of precipitation for both months are considered outliers (for June, anything over 0.30 and for December, anything over 0.38, are considered outliers)
 
 - the lowest temperature for June is 64 F while December is 56 F, and the highest temperature for June was 85 F and for December 83 F
 
