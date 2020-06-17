@@ -41,7 +41,9 @@ Software: Python - matplotlib, numpy, pandas, datetime, sqlalchemy; Microsoft Ex
 It is recommended to further analyze the differences year-over-year, as well as station vs station, to further understand the weather patterns. Please see below for related analyses:
 
 *June vs December - Precipitation by Year*
+
 ![](images/june_vs_december_precipitation_year_01.PNG)
+
 ![](images/june_vs_december_precipitation_year_02.PNG)
 
 -there is an overall downward trend for both June (-25.4%) and December (-22.6%) regarding number of days of precipitation from 2010 to 2016
@@ -49,18 +51,22 @@ It is recommended to further analyze the differences year-over-year, as well as 
 -similarily, there is also an overall downward trend for both June (-27.9%) and December (-18.1%) regarding total amounts of precipitation from 2011 to 2016 (it is observed that 2010 had abnormal amounts of precipitation compared to other years, therefore 2010 was eliminated from this analysis in order to not misrepresent the overall trend)
 
 *June vs December - Temperature by Year*
+
 ![](images/june_vs_december_temperature_year.PNG)
 
 - both June and December showed very little change YoY regarding average temperatures
 
 *June vs December - Precipitation by Station*
+
 ![](images/june_vs_december_precipitation_station_01.PNG)
+
 ![](images/june_vs_december_precipitation_station_02.PNG)
 
 - the station "USC00518838" had the lease amount of days of precipitation as compared to the rest, as well as the least total amount of precipitation
     - based on this analysis, it would appear that any location within close proximity to "USC00518838" would have the least impact due to precipitation as compared to all other locations
 
 *June vs December - Temperature by Station*
+
 ![](images/june_vs_december_temperature_station.PNG)
 
 - the station "USC00518838" had average temperatures very close to the overall average temperatures for both June and December, further reinforcing the notion that any location in close proximity to "USC00518838" would be an ideal location 
